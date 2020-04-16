@@ -1,0 +1,9 @@
+Pseudo Code :
+1. Get the renewal date from the user
+2. Extract the current system date
+3. Check if system date is between 1-Jan and the last day of the renewal month
+4.	Call the validity_check() which returns the days,months to the renewal date
+5.	Call alert_message() to display the appropriate alert message to the user
+6. Check if today's date is after the renewal month
+7.	Add 1 year to get the renewal date for next year
+8.	Display alert_message() appropriately
