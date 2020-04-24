@@ -1,0 +1,52 @@
+2020,1,1 2 months from now
+2020,1,31 2 months from now
+2020,2,1 Next month 
+2020,2,13 Next month
+2020,2,14 30 days from now
+2020,2,15 Next month
+2020,2,16 28 days from now
+2020,2,17 After 3 weeks
+2020,2,22 After 3 weeks
+2020,2,23 3 weeks from now
+2020,2,24 20 days from now
+2020,2,29 15 days from now
+2020,3,1 2 weeks from now
+2020,3,2 Next Sunday
+2020,3,8 Next Sunday
+2020,3,9 Coming Sunday
+2020,3,10 Coming Sunday
+2020,3,11 Coming Sunday
+2020,3,12 Coming Sunday
+2020,3,13 Day after Tomorrow
+2020,3,14 Tomorrow
+2020,3,15 Today
+2020,3,16 Yesterday
+2020,3,17 Day before yesterday
+2020,3,18 3 days back
+2020,3,19 4 days back
+2020,3,20 5 days back
+2020,3,21 6 days back
+2020,3,22 Last Sunday
+2020,3,23 in the last week
+2020,3,28 in the last week
+2020,3,29 2 weeks ago
+2020,4,1 almost a year from now
+2020,4,4 almost a year from now
+2020,4,15 almost a year from now
+2020,4,30 almost a year from now
+2020,5,1 almost 10 months away
+2020,5,31 almost 10 months away
+2020,6,1 almost 9 months away
+2020,6,30 almost 9 months away
+2020,7,1 almost 8 months away
+2020,7,31 almost 8 months away
+2020,8,1 almost 7 months away 
+2020,8,31 almost 7 months away 
+2020,9,1 almost 6 months away
+2020,9,30 almost 6 months away
+2020,10,1 almost 5 months away
+2020,10,31 almost 5 months away
+2020,11,1 almost 4 months away
+2020,11,30 almost 4 months away
+2020,12,1 almost 3 months away
+2020,12,31 almost 3 months away
